@@ -10,7 +10,7 @@ cd Roblox-Cookie-Gen
 python main.py 
 ```
 
-# full instructions 
+# linux instructions 
 ```
 python -m venv env
 source env/bin/activate
